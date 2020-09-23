@@ -1,2 +1,15 @@
-# create-aut
-so you could use `npm init aut` to init aut project
+# aut-cli
+---
+
+方式1
+
+```shell
+npx create-aut <demo>
+```
+
+方式2（暂未实现）
+
+```shell
+npm init aut
+```
+
