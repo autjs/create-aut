@@ -2,6 +2,7 @@
   "name": "create-aut",
   "version": "1.0.0",
   "description": "快速创建 aut.js 项目",
+  "private": "false",
   "bin": {
     "create-aut": "./bin/index.js"
   },
